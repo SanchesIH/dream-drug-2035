@@ -1,0 +1,1 @@
+Cleaned data you create (e.g., resized images, normalized numbers)

@@ -1,0 +1,1 @@
+Original data from competition (never modify!)
