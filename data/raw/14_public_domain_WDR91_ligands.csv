@@ -1,0 +1,15 @@
+"smiles","ID"
+C1CN(C[C@H]1O)c1ccc(cc1)C(NC1(COC1)c1ccc(cc1)[Cl])=O,8SHJ
+CCC(N1CCCc2c(cccc12)C(NC1(COC1)c1ccc(cc1)[Cl])=O)=O,8T55
+COc1c(CC(Nc2ccc3c(CCCN3C(c3ccccc3)=O)c2)=O)cccc1C#N,9DTA
+C1C[C@H](c2cccc(C#N)c12)NC(c1ccc(cc1)Nc1c2ccccc2ncn1)=O,9DTB
+CN1C([C@@H](c2ccccc12)c1c2C(NC(N(C)c2[nH]c1c1ccc(cc1)[Cl])=O)=O)=O,9EJ0
+C1C[C@H](c2ccccc2S(C1)(=O)=O)NC(c1ccc2c(c1)N=CC(N2)=O)=O,9EJP
+CNc1nc(cc(N[C@@H]2CCc3c(C#N)cccc23)n1)c1cccc(c1)N1CCCC1,9MK7
+CC(C)C1C2(CCCCC2)CN1C(NCc1ccccc1S(N)(=O)=O)=O,Z2307839200
+CC(NCc1ccc(cc1)C(NC(c1ccccc1)c1ccc(cc1)[Cl])=O)=O,Z88616889
+Cc1cc(ccc1c1cc(cnc1)C(N[C@@H]1CCc2c(C#N)cccc12)=O)OC,Z8999135965
+CC(c1cccc(c1)OCc1cn(c2ccc(cc2)C(N2CCC(CC2)C#N)=O)nn1)=O,Z8999136028
+CCN(CC)Cc1cn(Cc2ccc(cc2)C(N[C@@H]2CCc3c(C#N)cccc23)=O)nn1,Z8999136031
+C1C[C@H](c2cccc(C#N)c12)NC(c1ccc(cc1)SCc1cn2ccccc2n1)=O,Z8999137501
+C1C[C@H](c2cccc(C#N)c12)NC(c1ccc(cc1)S(NCc1ccco1)(=O)=O)=O,Z8999137662
